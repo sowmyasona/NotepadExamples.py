@@ -1,0 +1,2 @@
+# NotepadExamples.py
+Notepad operations
